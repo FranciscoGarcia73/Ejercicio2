@@ -9,3 +9,4 @@ http://localhost:3000/shop
 http://localhost:3000/shop/house
 El objetivo de este ejercicio es trabajar la modularización de las diferentes acciones dentro de nuestra aplicación.
 Cuanto más separadas estén, mejor.
+
